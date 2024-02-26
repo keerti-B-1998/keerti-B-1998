@@ -16,5 +16,5 @@
 * 📫 How to reach me: KB@gmail.com
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://raw.githubusercontent.com/keerti-B-1998/keerti-B-1998/main/assets/153301474/81b4e7d4-4d5a-4e81-8229-76cadc75aa6c.gif" alt="Animated Image">
+  <img src="C:\Users\Dell\Desktop\gif.gif" alt="Animated Image">
 </div>
