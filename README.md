@@ -9,8 +9,8 @@
 
 * 🔭 I’m currently pursuing FullStack Web Development Course
 
-* 🌱 Learning & exploring new technologies and Enhancing my skills at Edureka📚                                                                    https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
-
+* 🌱 Learning & exploring new technologies and Enhancing my skills at Edureka📚
+  
 * 💬 Ask me about Full Stack Development, Android Development, React, Express, Project Planning, or anything tech-related! 🌐
 
 * 📫 How to reach me: KB@gmail.com
