@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-<img title="a title" alt="Alt text" src="wall.jpg">
-![wall](https://github.com/keerti-B-1998/keerti-B-1998/assets/153301474/d5fa2575-9f68-4fb6-8ef1-b9f37d8c7539)
+![wall](![wall](https://github.com/keerti-B-1998/keerti-B-1998/assets/153301474/4f2b1c37-f4f0-4c72-b93e-24483791143b)
+)
