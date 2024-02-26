@@ -16,5 +16,5 @@
 * 📫 How to reach me: KB@gmail.com
 
 <div style="float: right; margin-left: 20px;">
-  <img src="C:\Users\Dell\Desktop\gif.gif" alt="Animated Image">
+  <img src="C:\Users\Dell\Desktop\gif.gif" alt="Animated Image" width="200">
 </div>
