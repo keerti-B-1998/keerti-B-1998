@@ -14,3 +14,7 @@
 * 💬 Ask me about Full Stack Development, Android Development, React, Express, Project Planning, or anything tech-related! 🌐
 
 * 📫 How to reach me: KB@gmail.com
+
+  <div style="float: right; margin-left: 20px;">
+  <img src="[https://example.com/animated-image.gif](https://github.com/keerti-B-1998/keerti-B-1998/assets/153301474/c5d733df-2dc3-4c0c-bd46-74f948f63682)" alt="Animated Image">
+  </div>
